@@ -1,0 +1,17 @@
+version: "3.5"
+services:
+  db:
+    image: mcr.microsoft.com/mssql/server:2019-CU15-ubuntu-20.04
+    container_name: webapp-db
+    ports:
+      - "1433:1433"
+    environment:
+      - ACCEPT_EULA=y
+      - SA_PASSWORD=123456a@
+
+networks:
+  default:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.16.4.0/24

@@ -1,0 +1,17 @@
+/home/starr/dotnet/dotnetMVC/dotnet.DataAccess/bin/Debug/net6.0/dotnet.DataAccess.deps.json
+/home/starr/dotnet/dotnetMVC/dotnet.DataAccess/bin/Debug/net6.0/dotnet.DataAccess.runtimeconfig.json
+/home/starr/dotnet/dotnetMVC/dotnet.DataAccess/bin/Debug/net6.0/dotnet.DataAccess.dll
+/home/starr/dotnet/dotnetMVC/dotnet.DataAccess/bin/Debug/net6.0/dotnet.DataAccess.pdb
+/home/starr/dotnet/dotnetMVC/dotnet.DataAccess/bin/Debug/net6.0/dotnet.Models.dll
+/home/starr/dotnet/dotnetMVC/dotnet.DataAccess/bin/Debug/net6.0/dotnet.Models.pdb
+/home/starr/dotnet/dotnetMVC/dotnet.DataAccess/obj/Debug/net6.0/dotnet.DataAccess.csproj.AssemblyReference.cache
+/home/starr/dotnet/dotnetMVC/dotnet.DataAccess/obj/Debug/net6.0/dotnet.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/home/starr/dotnet/dotnetMVC/dotnet.DataAccess/obj/Debug/net6.0/dotnet.DataAccess.AssemblyInfoInputs.cache
+/home/starr/dotnet/dotnetMVC/dotnet.DataAccess/obj/Debug/net6.0/dotnet.DataAccess.AssemblyInfo.cs
+/home/starr/dotnet/dotnetMVC/dotnet.DataAccess/obj/Debug/net6.0/dotnet.DataAccess.csproj.CoreCompileInputs.cache
+/home/starr/dotnet/dotnetMVC/dotnet.DataAccess/obj/Debug/net6.0/dotnet.DataAccess.csproj.CopyComplete
+/home/starr/dotnet/dotnetMVC/dotnet.DataAccess/obj/Debug/net6.0/dotnet.DataAccess.dll
+/home/starr/dotnet/dotnetMVC/dotnet.DataAccess/obj/Debug/net6.0/refint/dotnet.DataAccess.dll
+/home/starr/dotnet/dotnetMVC/dotnet.DataAccess/obj/Debug/net6.0/dotnet.DataAccess.pdb
+/home/starr/dotnet/dotnetMVC/dotnet.DataAccess/obj/Debug/net6.0/dotnet.DataAccess.genruntimeconfig.cache
+/home/starr/dotnet/dotnetMVC/dotnet.DataAccess/obj/Debug/net6.0/ref/dotnet.DataAccess.dll

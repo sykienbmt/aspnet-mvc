@@ -1,0 +1,12 @@
+/home/starr/dotnet/dotnetMVC/dotnet.Models/bin/Debug/net6.0/dotnet.Models.deps.json
+/home/starr/dotnet/dotnetMVC/dotnet.Models/bin/Debug/net6.0/dotnet.Models.dll
+/home/starr/dotnet/dotnetMVC/dotnet.Models/bin/Debug/net6.0/dotnet.Models.pdb
+/home/starr/dotnet/dotnetMVC/dotnet.Models/obj/Debug/net6.0/dotnet.Models.csproj.AssemblyReference.cache
+/home/starr/dotnet/dotnetMVC/dotnet.Models/obj/Debug/net6.0/dotnet.Models.GeneratedMSBuildEditorConfig.editorconfig
+/home/starr/dotnet/dotnetMVC/dotnet.Models/obj/Debug/net6.0/dotnet.Models.AssemblyInfoInputs.cache
+/home/starr/dotnet/dotnetMVC/dotnet.Models/obj/Debug/net6.0/dotnet.Models.AssemblyInfo.cs
+/home/starr/dotnet/dotnetMVC/dotnet.Models/obj/Debug/net6.0/dotnet.Models.csproj.CoreCompileInputs.cache
+/home/starr/dotnet/dotnetMVC/dotnet.Models/obj/Debug/net6.0/dotnet.Models.dll
+/home/starr/dotnet/dotnetMVC/dotnet.Models/obj/Debug/net6.0/refint/dotnet.Models.dll
+/home/starr/dotnet/dotnetMVC/dotnet.Models/obj/Debug/net6.0/dotnet.Models.pdb
+/home/starr/dotnet/dotnetMVC/dotnet.Models/obj/Debug/net6.0/ref/dotnet.Models.dll
