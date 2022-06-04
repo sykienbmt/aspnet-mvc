@@ -8,5 +8,8 @@ namespace dotnet.DataAccess.Repository.IRepository
         IEnumerable<T> GetAll();
 
         void Add(T entity);
+        void Remove(T entity);
+
+        void Remove(IEnumerable<T> entity);
     }
 }
