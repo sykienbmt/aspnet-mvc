@@ -11,7 +11,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options=> options.UseSqlServ
     builder.Configuration.GetConnectionString("DefaultConnection")
 ));
 builder.Services.AddScoped<IUnitOfWork,UnitOfWork>();
-builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
+// builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
 
 var app = builder.Build();
 
@@ -32,6 +32,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{Area=Customer}/{controller=Home}/{action=Index}/{id?}");
 
 app.Run();

@@ -768,3 +768,6 @@
 /home/starr/dotnet/dotnetMVC/dotnet.shop/obj/Debug/net6.0/dotnet.shop.csproj.CopyComplete
 /home/starr/dotnet/dotnetMVC/dotnet.shop/obj/Debug/net6.0/dotnet.shop.genruntimeconfig.cache
 /home/starr/dotnet/dotnetMVC/dotnet.shop/obj/Debug/net6.0/ref/dotnet.shop.dll
+/home/starr/dotnet/dotnetMVC/dotnet.shop/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/starr/dotnet/dotnetMVC/dotnet.shop/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/starr/dotnet/dotnetMVC/dotnet.shop/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
